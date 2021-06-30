@@ -1,0 +1,1 @@
+# wpDevStack Project Scope
