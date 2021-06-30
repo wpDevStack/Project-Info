@@ -8,7 +8,7 @@ The following documents and information contained within this repository are doc
 * [What is wpDevStack?](./pinfo/about.md)
 * [wpDevStack - Project Scope](./pinfo/projscope.md)
 * [Why Open Source?](./pinfo/whyoss.md)
-* [The Dual License Options](./pinfo/duallic.md)
+* [The Dual Licensing Options](./pinfo/duallic.md)
 * [The Future of wpDevStack](./pinfo/future.md)
 
 ## Project Breakdown...
