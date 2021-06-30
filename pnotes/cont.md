@@ -1,4 +1,4 @@
-# RL Technologies - wpDevStack<br>A Wordpress development and hosting system.<br>Market Research and Need
+# RL Technologies - wpDevStack<br>A Wordpress development and hosting system.<br>wpDevStack - Container Images
 <hr>
 
 Content Goes Here!!
