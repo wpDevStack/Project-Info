@@ -1,6 +1,6 @@
 <div align="center">
 
-# RL Technologies - wpDevStack<br>A Wordpress development and hosting system.<br>Table of Contents
+# RL Technologies - wpDevStack<br>A Wordpress development and hosting system.<br><br>Table of Contents
 ### **&nbsp; Everything you wanted to know about wpDevStack, but were afraid to ask. &nbsp;**
 
 </div>
@@ -11,7 +11,7 @@ While originally wpDevStack was going to be a semi-closed loop like so many othe
 <hr>
 
 ## Project Info...
-* [What is wpDevStack?](./theProject/about.md)
+* [What exactly is wpDevStack?](./theProject/about.md)
 * [wpDevStack - The Technologies](./pinfo/tech.md)
 * [wpDevStack - Project Scope](./pinfo/projscope.md)
 * [Why Open Source?](./pinfo/whyoss.md)
@@ -36,7 +36,7 @@ While originally wpDevStack was going to be a semi-closed loop like so many othe
 * [Financials and Funding](./pbiz/funds.md)
 
 <div align="center">
-<br><br><br><br>
+<br><br>
 <hr>
 <b><i>License and Copyright...</i></b><br>
 License: AGPL v3.0 or Later.  &nbsp; &nbsp; &nbsp; Copyright (c) 2019-2021 RL Technologies, LLC
