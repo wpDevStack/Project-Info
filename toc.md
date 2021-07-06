@@ -11,7 +11,7 @@ While originally wpDevStack was going to be a semi-closed loop like so many othe
 <hr>
 
 ## Project Info...
-* [What is wpDevStack?](./pinfo/about.md)
+* [What is wpDevStack?](./theProject/about.md)
 * [wpDevStack - The Technologies](./pinfo/tech.md)
 * [wpDevStack - Project Scope](./pinfo/projscope.md)
 * [Why Open Source?](./pinfo/whyoss.md)
