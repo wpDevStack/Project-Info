@@ -20,13 +20,13 @@ While originally **wpDevStack** was going to be a semi-closed loop like so many 
 
 #
 ## Project Breakdown...
-* [wpDevStack - Local Development Tool](./pnotes/wds-locdev.md)
-* [wpDevStack - Single Server Solution](./pnotes/wds-oneserver.md)
-* [wpDevStack - LXD Server Solution](./pnotes/wds-lxdserver.md)
-* [wpDevStack - Self Hosting](./pnotes/selfhost.md)
-* [wpDevStack - Managed Hosting](./pnotes/manghost.md)
-* [wpDevStack - Enterprise Hosting](./pnotes/enthost.md)
-* [wpDevStack - Cloud Images](./pnotes/cont.md)
+* [wpDevStack - The Local Development App](./theBreakdown/wds-locdev.md)
+* [wpDevStack - Single Server Solution](./theBreakdown/wds-oneserver.md)
+* [wpDevStack - LXD Server Solution](./theBreakdown/wds-lxdserver.md)
+* [wpDevStack - Self Hosting](./theBreakdown/selfhost.md)
+* [wpDevStack - Managed Hosting](./theBreakdown/manghost.md)
+* [wpDevStack - Enterprise Hosting](./theBreakdown/enthost.md)
+* [wpDevStack - Cloud Images](./theBreakdown/cloudimg.md)
 
 #
 ## The Business End Of The Project...
