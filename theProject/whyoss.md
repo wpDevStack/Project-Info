@@ -1,6 +1,6 @@
 <div align="center">
 
-# RL Technologies - wpDevStack<br>A Wordpress development and hosting system.<br><br>Why Open Source?
+# RL Technologies - wpDevStack<br>A Wordpress Development and Hosting System<br><br>Why Open Source?
 
 </div>
 <hr>
