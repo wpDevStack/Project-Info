@@ -12,7 +12,7 @@ While originally wpDevStack was going to be a semi-closed loop like so many othe
 
 ## Project Info...
 * [What exactly is wpDevStack?](./theProject/about.md)
-* [wpDevStack - The Technologies](./pinfo/tech.md)
+* [wpDevStack - The Technologies](./theProject/tech.md)
 * [wpDevStack - Project Scope](./pinfo/projscope.md)
 * [Why Open Source?](./pinfo/whyoss.md)
 * [The Dual Licensing Options](./pinfo/duallic.md)
