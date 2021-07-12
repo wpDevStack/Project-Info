@@ -1,6 +1,6 @@
 <div align="center">
 
-# RL Technologies - wpDevStack<br>A Wordpress development and hosting system.<br><br>The Future of wpDevStack
+# RL Technologies - wpDevStack<br>A Wordpress development and hosting system.<br><br>The Future Of wpDevStack
 
 </div>
 <hr>
