@@ -30,10 +30,9 @@ While originally **wpDevStack** was going to be a semi-closed loop like so many 
 
 #
 ## The Business End Of The Project...
-* [Market Research and Need](./pbiz/mkt.md)
-* [Who is RL Technologies LLC?](./pbiz/mkt.md)
-* [Copyrights, Trademarks, and Patents](./pbiz/copy.md)
-* [Financials and Funding](./pbiz/funds.md)
+* [Market Research and Need](./theBusiness/marketing.md)
+* [Copyrights, Trademarks, and Patents](./theBusiness/copyrights.md)
+* [Financials and Funding](./theBusiness/finance.md)
 
 <div align="center">
 <br><br>
