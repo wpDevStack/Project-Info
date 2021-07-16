@@ -12,6 +12,6 @@ Content Goes Here!!
 <b><i>License and Copyright...</i></b><br>
 License: AGPL v3.0 or Later.  &nbsp; &nbsp; &nbsp; Copyright (c) 2019-2021 RL Technologies, LLC
 
-**wpDevStack** is a trademark of RL Technologies, LLC - Pocatello, ID, USA
-
+**wpDevStack** is a trademark of RL Technologies, LLC - Pocatello, ID, USA<br>
+**codeteam@wpdevstack.com  /  codeteam@rltechs.com**
 </div>
